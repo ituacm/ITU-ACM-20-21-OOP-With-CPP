@@ -8,9 +8,9 @@
 
 ### Prerequisities
 1. Basic knowledge about programming in C or C++
-  * Data types, functions, header files
-  * Pointers, arrays
-  * Structs (not necessarily but will help)
+  >* Data types, functions, header files
+  >* Pointers, arrays
+  >* Structs (not necessarily but will help)
 2. Any C++ IDE or any text editor + compiler combo would work
 3. A Zoom account
 
