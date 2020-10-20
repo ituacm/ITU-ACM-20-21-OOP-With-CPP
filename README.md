@@ -37,11 +37,6 @@ In this program we will learn about OOP using C++. The goal of this course is to
 | 30 December 2020 | Smart Pointers | Smart pointers, move semantics |
 | 6 January 2021 | STL | Introduction to the C++ Standard Template Library |
 
-
-<p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
-
-(Lectures will be in ITU Faculty of Chemical and Metallurgical Engineering classroom D205 at every Thursday 17.30)
-
 <p align="center">
   <a href="//ituacm.com" target="_blank">
     <img src="https://ituacm.com/wp-content/uploads/2017/08/itu-logo.png">
