@@ -1,5 +1,3 @@
-[![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
-
 ### Instructors
 
 **Cemalettin Cem Belentepe**
