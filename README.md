@@ -5,6 +5,7 @@
 **Cemalettin Cem Belentepe**
 
 [*GitHub*](https://github.com/theCCB)
+[*GMail*](cemcembelentepe@gmail.com)
 
 ### Prerequisities
 + Basic knowledge about programming in C or C++
