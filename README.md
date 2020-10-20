@@ -7,12 +7,12 @@
 [*GitHub*](https://github.com/theCCB)
 
 ### Prerequisities
-1. Basic knowledge about programming in C or C++
-  >* Data types, functions, header files
-  >* Pointers, arrays
-  >* Structs (not necessarily but will help)
-2. Any C++ IDE or any text editor + compiler combo would work
-3. A Zoom account
++ Basic knowledge about programming in C or C++
+  - Data types, functions, header files
+  - Pointers, arrays
+  - Structs (not necessarily but will help)
++ Any C++ IDE or any text editor + compiler combo would work
++ A Zoom account
 
 ### Lecture Day and Time
 Every Wednesday, [ 18:00 - 19:30 ] (Online)
@@ -29,13 +29,13 @@ In this program we will learn about OOP using C++. The goal of this course is to
 | 11 November 2020 | Classes | This, constructor, lifetime, destructor, member initialization list, static members, Example |
 | 18 November 2020 | Operator Overloading | Friends, operator overloading, Example |
 | 25 November 2020 | Constructor | Type cast overloading, copy constructor, explicit/delete |
-| 4 November 2020 | Inıtialization |  Initialization types, copy initialization, overloading assignment operator, shallow vs deep copy |
-| 2 December 2020 | Inheritance | Inheritance |
-| 9 December 2020 | Polymorphism | Polymorphism, virtual functions |
-| 16 December 2020 | Templates | Templates, Example: ArrayList |
-| 23 December 2020 | Error Handling | Error handling via exceptions |
-| 30 December 2020 | Smart Pointers | Smart pointers, move semantics |
-| 6 January 2021 | STL | Introduction to the C++ Standard Template Library |
+| 2 December 2020 | Inıtialization |  Initialization types, copy initialization, overloading assignment operator, shallow vs deep copy |
+| 9 December 2020 | Inheritance | Inheritance |
+| 16 December 2020 | Polymorphism | Polymorphism, virtual functions |
+| 23 December 2020 | Templates | Templates, Example: ArrayList |
+| 30 December 2020 | Error Handling | Error handling via exceptions |
+| 6 January 2020 | Smart Pointers | Smart pointers, move semantics |
+| 13 January 2021 | STL | Introduction to the C++ Standard Template Library |
 
 <p align="center">
   <a href="//ituacm.com" target="_blank">
