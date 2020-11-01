@@ -27,7 +27,7 @@ In this program we will learn about OOP using C++. The goal of this course is to
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 4 November 2020 | C vs C++ | What are the namespaces, references, classes, members, access modifiers and function overloading |
+| 4 November 2020 | C vs C++ | What are the namespaces, references, argument passing, classes, members, access modifiers and function overloading |
 | 11 November 2020 | Classes | This, constructor, lifetime, destructor, member initialization list, static members, Example |
 | 18 November 2020 | Operator Overloading | Friends, operator overloading, Example |
 | 25 November 2020 | Constructor | Type cast overloading, copy constructor, explicit/delete |
