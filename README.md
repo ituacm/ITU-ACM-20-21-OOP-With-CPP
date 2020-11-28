@@ -30,14 +30,13 @@ In this program we will learn about OOP using C++. The goal of this course is to
 | 4 November 2020 | C vs C++ | What are the namespaces, references, argument passing, classes, members, access modifiers and function overloading |
 | 11 November 2020 | Classes | This, constructor, lifetime, destructor, member initialization list, static members, Example |
 | 18 November 2020 | Operator Overloading | Friends, operator overloading, Example |
-| 25 November 2020 | Constructor | Type cast overloading, copy constructor, explicit/delete |
-| 2 December 2020 | Inıtialization |  Initialization types, copy initialization, overloading assignment operator, shallow vs deep copy |
-| 9 December 2020 | Inheritance | Inheritance |
-| 16 December 2020 | Polymorphism | Polymorphism, virtual functions |
-| 23 December 2020 | Templates | Templates, Example: ArrayList |
-| 30 December 2020 | Error Handling | Error handling via exceptions |
-| 6 January 2020 | Smart Pointers | Smart pointers, move semantics |
-| 13 January 2021 | STL | Introduction to the C++ Standard Template Library |
+| 25 November 2020 | Constructor and Initialization | Type cast overloading, copy constructor, explicit/delete, Initialization types, copy initialization, overloading assignment operator, shallow vs deep copy |
+| 2 December 2020 | Inheritance | Inheritance |
+| 9 December 2020 | Polymorphism | Polymorphism, virtual functions |
+| 16 December 2020 | Templates | Templates, Example: ArrayList |
+| 23 December 2020 | Error Handling | Error handling via exceptions |
+| 30 December 2020 | Smart Pointers | Smart pointers, move semantics |
+| 6 January 2021 | STL | Introduction to the C++ Standard Template Library |
 
 <p align="center">
   <a href="//ituacm.com" target="_blank">
